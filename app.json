@@ -1,0 +1,21 @@
+{
+  "app-download": [
+    {
+      "title": "下载APP",
+      "filename": "index",
+      "chunks": []
+    },
+    {
+      "title": "下载APP列表",
+      "filename": "list",
+      "chunks": []
+    }
+  ],
+  "activity-center": [
+    {
+      "title": "活动中心",
+      "filename": "index",
+      "chunks": []
+    }
+  ]
+}
